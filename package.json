@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/phantom-kudo/url-shortener.git"
   },
-  "author": "Tarpan Bhattacharya",
+  "author": "Rohan Pal",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/phantom-kudo/url-shortener/issues"
